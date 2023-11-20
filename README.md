@@ -17,5 +17,5 @@
 - [ResearchGate](https://www.researchgate.net/scientific-contributions/Artem-Smetanin-2185922456)
 - [Email](mailto:artem_smetanin@niuitmo.ru)
 
-"Exploring the future of technology through AI and Computer Vision, one algorithm at a time."
+
 
