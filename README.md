@@ -14,7 +14,7 @@
 📚 As a lifelong learner and tech enthusiast, I'm always on the lookout for collaborative projects and innovative research opportunities in these areas. Feel free to reach out if you're interested in collaborating or just want to chat about the latest trends in AI and Computer Vision!
 
 🔗 **Connect with me:**
-- [ResearchGate]([Your-ResearchGate-URL](https://www.researchgate.net/scientific-contributions/Artem-Smetanin-2185922456))
+- [ResearchGate](https://www.researchgate.net/scientific-contributions/Artem-Smetanin-2185922456)
 - [Email](mailto:artem_smetanin@niuitmo.ru)
 
 "Exploring the future of technology through AI and Computer Vision, one algorithm at a time."
