@@ -36,11 +36,27 @@
 
 <br>
 
-📚 As a lifelong learner and tech enthusiast, I'm always on the lookout for collaborative projects and innovative research opportunities in these areas. Feel free to reach out if you're interested in collaborating or just want to chat about the latest trends in AI and Computer Vision!
+# 📚 About me
+As a lifelong learner and tech enthusiast, I'm always on the lookout for collaborative projects and innovative research opportunities in these areas. Feel free to reach out if you're interested in collaborating or just want to chat about the latest trends in AI and Computer Vision!
 
 🔗 **Connect with me:**
-- [ResearchGate](https://www.researchgate.net/scientific-contributions/Artem-Smetanin-2185922456)
-- [Email](mailto:artem_smetanin@niuitmo.ru)
+<br>
+
+<div align="center">
+    <a href="https://t.me/artemsmetanin">
+        <img src="https://img.shields.io/badge/-telegram-2CA5E0?style=for-the-badge&logo=telegram&labelColor=white">
+    </a>
+    <a href="mailto:artem_smetanin@niuitmo.ru">
+        <img src="https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=gmail&labelColor=white">
+    </a>
+        <a href="https://www.researchgate.net/scientific-contributions/Artem-Smetanin-2185922456">
+        <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white">
+    </a>
+</div>
+
+
+<br>
+
 
   <!--LINKS-->
 
