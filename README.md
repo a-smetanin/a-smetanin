@@ -63,7 +63,7 @@
    - *Encourages connections and discussions related to AI and data science.*
 
 
-🔗 **Connect with me:**
+# 🔗 **Connect with me:**
 <br>
 
 <div align="center">
