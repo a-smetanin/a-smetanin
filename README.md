@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1500&random=false&width=435&lines=Hi%2C+my+name+is+Artem+Smetanin!;I'm+a+PhD+student+at+ITMO+University.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1500&random=false&width=700&lines=Hi%2C+my+name+is+Artem+Smetanin!;I'm+a+PhD+student+at+ITMO+University.)](https://git.io/typing-svg)
 
 # 🔍 **Research Interests:**
 - **Computer Vision:** Harnessing the power of algorithms to enable machines to interpret and understand visual data from the world around us.
