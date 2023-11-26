@@ -38,27 +38,27 @@
 
 # 📚 About me
 
-1. **Bachelor's Degree in Computer Science and Engineering**
+- **Bachelor's Degree in Computer Science and Engineering**
    - *Graduated with honors from Dubna University.*
    - *Specialized focus on Computer Science and Engineering.*
 
-2. **Specialization in Big Data Analytics**
+- **Specialization in Big Data Analytics**
    - *Completed advanced training at an international school.*
    - *Concentrated on Big Data analytics.*
 
-3. **Master's Degree in Big Data and Machine Learning**
+- **Master's Degree in Big Data and Machine Learning**
    - *Attained from ITMO University.*
    - *Combined studies of Big Data and Machine Learning.*
 
-4. **Ph.D. Candidate in Artificial Intelligence**
+- **Ph.D. Candidate in Artificial Intelligence**
    - *Currently enrolled at ITMO University.*
    - *Engaged in pioneering research in Artificial Intelligence.*
 
-5. **Active Open-Source Project Contributor**
+- **Active Open-Source Project Contributor**
    - *Regular involvement in numerous open-source projects.*
    - *Collaborative efforts within the GitHub community.*
 
-6. **Advocate for AI and Data Science Opportunities**
+- **Advocate for AI and Data Science Opportunities**
    - *Open to exploring and discussing new opportunities.*
    - *Encourages connections and discussions related to AI and data science.*
 
